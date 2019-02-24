@@ -1,0 +1,1 @@
+{"name":"video-blobs","description":"Video Blobs","main":"index.js","version":"0.0.1","dependencies":{"express":"^4.16.4","body-parser":"^1.18.3","minio":"^7.0.5","dot":"^1.1.2","async":"^2.6.1"},"devDependencies":{},"peerDependencies":{}}
